@@ -4,7 +4,7 @@ A Tableau dashboard exploring how renewable energy production, capacity and inve
 
 **Project type:** University group assignment · Data Visualisation Using Tableau
 
-![Global Renewable Energy Transition dashboard](Tableau%20Dashboard%20Final%281%29.png)
+![Global Renewable Energy Transition dashboard](Tableau%20Dashboard%20Final.png)
 
 ## What we explored
 
@@ -26,7 +26,7 @@ Our group presentation highlighted increasing renewable energy capacity from 201
 **Tool:** Tableau
 
 - [`G03_EDS2233_Workbook.twbx`](G03_EDS2233_Workbook.twbx) — packaged Tableau workbook, including its data extract.
-- [`Tableau Dashboard Final(1).png`](Tableau%20Dashboard%20Final%281%29.png) — screenshot of the final dashboard.
+- [`Tableau Dashboard Final.png`](Tableau%20Dashboard%20Final.png) — screenshot of the final dashboard.
 
 To explore the dashboard interactively, download and open the `.twbx` file using a compatible version of Tableau. The screenshot is a static preview. The original workbook may refer to local CSV paths when attempting to refresh data connections; the packaged extract is included for viewing.
 
